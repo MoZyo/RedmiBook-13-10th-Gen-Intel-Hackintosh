@@ -60,7 +60,7 @@ Bootloader | OpenCore 0.5.8
     <li>Repository created. Will probably ask help for the dreaded internal speaker situation on Reddit.</li>
   </ul>
   <ul>
-      <li>Known that FakePCIID its HDMI_Audio kexts is the key for making audio work for Intel 10th Gen with ALC256 and ALC3204/236 Sound Cards. Audio PCI must be called out with device-id in config.plist</li>
+      <li>Known that FakePCIID and its HDMI_Audio kexts are the key for making audio work for Intel 10th Gen with ALC256 and ALC3204/236 Sound Cards. Audio PCI must be called out with device-id in config.plist</li>
     <ul>
       <li>Tested on @R3TLIX's Dell Vostro 5590 and it worked. Thanks to <a href="https://www.hackintosh-forum.de/user/40078-noirosx/">NoirOSX</a></li>
     </ul>
