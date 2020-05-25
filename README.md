@@ -38,7 +38,7 @@ Bootloader | OpenCore 0.5.8
 ## Important Notes:
 - This is a **Work in Progress [WIP]**.
 - Do not COPY & PASTE this and use on your installer or Mac disk's EFI Partition. This is to give you idea on what will work and a jump start to hackintosh this laptop.
-- SSDT-RMNE and NullEthernet are used for fixing iServices. Once you are already loggen in on your iMessage, you can remove SSDT-RMNE.
+- SSDT-RMNE and NullEthernet are used for fixing iServices. Once you are already logged in on your iMessage, you can remove SSDT-RMNE.
 - SMBIOS information are reset to default values... Apply your generated SMBIOS.
 - My created layout is at layout-id 27. You are free to try it. You can also try layout-id 11.
 - All guides and very much needed information can be read in [Dortania's Guide](https://dortania.github.io/vanilla-laptop-guide/ "Overview - Dortania").
@@ -49,7 +49,6 @@ Bootloader | OpenCore 0.5.8
 * Generate your SMBIOS and put info in the 'Generic' part of config.plist.
 * Open a terminal in `ComboJack` folder and run `ComboJack_Installer/install.sh`. (Optional)
   - It is known to make headphone sound quality better.
-* 
 
 ## Changelog
 <details>
