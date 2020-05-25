@@ -4,7 +4,7 @@ A Hackintosh - Opencore for Xiaomi RedmiBook 13 2019-2020
 ### Specs:
 Type | Details
 | -------------- |:----------------------------:|
-CPU | i5-10210u / *i7-10510u*
+CPU | i5-10210u / ***i7-10510u**
 iGPU | Intel UHD620
 dGPU | NVidia MX250
 Display | 1920x1080
@@ -17,6 +17,7 @@ KB | Standard PS2 Keyboard
 TP | ELAN I2C HID Trackpad
 SMBIOS | MacBookPro 16,1
 Bootloader | OpenCore 0.5.8
+###### *version this is made from
 
 ### What works and What doesn't or WIP:
 - [x] Intel UHD620 iGPU
