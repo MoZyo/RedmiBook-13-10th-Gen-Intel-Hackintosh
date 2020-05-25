@@ -52,13 +52,25 @@ Bootloader | OpenCore 0.5.8
 * 
 
 ## Changelog
-**05/25/20**
-* Repository created. Will probably ask help for the dreaded internal speaker situation on Reddit.
-* Known that FakePCIID its HDMI_Audio kexts is the key for making audio work for Intel 10th Gen with ALC256 and ALC3204/236 Sound Cards. Audio PCI must be called out with device-id in config.plist
-  - Tested on @R3TLIX's Dell Vostro 5590 and it worked. Thanks to [NoirOSX](https://www.hackintosh-forum.de/user/40078-noirosx/)
-* Tried different PathMaps and Verb Data in PinConfigs.kext. (AppleHDA Patching)
-  - Managed to get Internal Speakers on Output, Mic (works, I can see movement when I speak) in Input. Switches to Headphone when plugged in (works).
-* Tried every layout there is for AppleALC's ALC256. (none worked to make internal speaker to work).
+<details>
+<summary>Read Changelog...</summary>
+  <h2> 05/25/20 </h2>
+  <ul>
+    <li>Repository created. Will probably ask help for the dreaded internal speaker situation on Reddit.</li>
+  </ul>
+  <ul>
+      <li>Known that FakePCIID its HDMI_Audio kexts is the key for making audio work for Intel 10th Gen with ALC256 and ALC3204/236 Sound Cards. Audio PCI must be called out with device-id in config.plist</li>
+    <ul>
+      <li>Tested on @R3TLIX's Dell Vostro 5590 and it worked. Thanks to [NoirOSX](https://www.hackintosh-forum.de/user/40078-noirosx/)</li>
+    </ul>
+  </ul>
+    <ul>
+      <li>Managed to get Internal Speakers on Output, Mic (works, I can see movement when I speak) in Input. Switches to Headphone when plugged in (works).</li>
+      <ul>
+      <li>Tried different PathMaps and Verb Data in PinConfigs.kext. (AppleHDA Patching)</li>
+      <li>Tried every layout there is for AppleALC's ALC256. (none worked to make internal speaker to work).</li>
+    </ul>
+</details>
 
 ## Credits
 - [Apple](https://apple.com) for MacOSX
