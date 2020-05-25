@@ -61,8 +61,8 @@ Bootloader | OpenCore 0.5.8
 * Tried every layout there is for AppleALC's ALC256. (none worked to make internal speaker to work).
 
 ## Credits
-[Apple](https://apple.com) for MacOSX
-[@R3TLIX](https://github.com/R3TLIX) for assistance.
-[NoirOSX](https://www.hackintosh-forum.de/user/40078-noirosx/)
-[Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
-Hackintosh Paradise Discord
+- [Apple](https://apple.com) for MacOSX
+- [@R3TLIX](https://github.com/R3TLIX) for assistance.
+- [NoirOSX](https://www.hackintosh-forum.de/user/40078-noirosx/)
+- [Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+- Hackintosh Paradise Discord Server
