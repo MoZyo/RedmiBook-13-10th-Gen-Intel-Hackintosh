@@ -53,7 +53,7 @@ Bootloader | OpenCore 0.5.8
 ## Changelog
 <details>
 <summary>Read Changelog...</summary>
-  <h2> 05/25/20 </h2>
+  <h4> 05/25/20 </h4>
   <ul>
     <li>Repository created. Will probably ask help for the dreaded internal speaker situation on Reddit.</li>
   </ul>
