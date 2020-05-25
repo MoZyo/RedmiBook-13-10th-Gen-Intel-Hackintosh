@@ -19,7 +19,6 @@ SMBIOS | MacBookPro 16,1
 Bootloader | OpenCore 0.5.8
 
 ### What works and What doesn't or WIP:
------
 - [x] Intel UHD620 iGPU
 - [x] USB Ports
 - [x] Sleep / Wake
@@ -49,6 +48,9 @@ Bootloader | OpenCore 0.5.8
 * Generate your SMBIOS and put info in the 'Generic' part of config.plist.
 * Open a terminal in `ComboJack` folder and run `ComboJack_Installer/install.sh`. (Optional)
   - It is known to make headphone sound quality better.
+  
+## Discuss
+##### [Telegram Group](https://t.me/joinchat/HxHwZxsyG7uMd2Acj0uirw)
 
 ## Changelog
 <details>
