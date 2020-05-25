@@ -59,3 +59,10 @@ Bootloader | OpenCore 0.5.8
 * Tried different PathMaps and Verb Data in PinConfigs.kext. (AppleHDA Patching)
   - Managed to get Internal Speakers on Output, Mic (works, I can see movement when I speak) in Input. Switches to Headphone when plugged in (works).
 * Tried every layout there is for AppleALC's ALC256. (none worked to make internal speaker to work).
+
+## Credits
+[Apple](https://apple.com) for MacOSX
+[@R3TLIX](https://github.com/R3TLIX) for assistance.
+[NoirOSX](https://www.hackintosh-forum.de/user/40078-noirosx/)
+[Acidanthera](https://github.com/acidanthera) for OpenCore and all the lovely hackintosh work.
+Hackintosh Paradise Discord
