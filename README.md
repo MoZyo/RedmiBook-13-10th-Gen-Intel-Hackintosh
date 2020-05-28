@@ -49,6 +49,7 @@ Bootloader | OpenCore 0.5.8
 * Generate your SMBIOS and put info in the 'Generic' part of config.plist.
 * Open a terminal in `ComboJack` folder and run `ComboJack_Installer/install.sh`. (Optional)
   - It is known to make headphone sound quality better.
+  - No need for a disabled SIP. Safe to install and you can uninstall later.
   
 ## Discuss
 ##### [Telegram Group](https://t.me/joinchat/HxHwZxsyG7uMd2Acj0uirw)
@@ -56,6 +57,10 @@ Bootloader | OpenCore 0.5.8
 ## Changelog
 <details>
 <summary>Read Changelog...</summary>
+    <h4> 05/28/20 </h4>
+  <ul>
+    <li>Tried VoodooHDA (detects mic, headphone OK, int speaker NO SOUND)</li>
+  </ul>
   <h4> 05/25/20 </h4>
   <ul>
     <li>Repository created. Will probably ask help for the dreaded internal speaker situation on Reddit.</li>
